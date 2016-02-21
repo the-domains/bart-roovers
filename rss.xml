@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bart Roovers]]></title>
+        <description><![CDATA[Bart Roovers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 13:46:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Write a Professional Bio for Twitter, LinkedIn, Facebook & Google+]]></title>
+            <description><![CDATA[<article><h1>How to Write a Professional Bio for Twitter, LinkedIn, Facebook & Google+</h1><p>Talking about yourself is hard. Doing it in 160 characters or less is even harder. That's probably why so many of us end up stressed about crafting the perfect professional bio for Twitter - or LinkedIn, Facebook or other social networks. It has to set you apart, but still reflect approachability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e7a70f2e51326a3921948f22a69a0ce2991a5a.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/courtney-seiter/how-to-write-a-profession_1_b_5577682.html</link>
+            <guid isPermaLink="false">cc34b219-8a8e-4787-bdcc-0d787362936e</guid>
+            <pubDate>Sun, 21 Feb 2016 13:46:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
